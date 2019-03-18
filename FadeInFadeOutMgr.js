@@ -6,6 +6,9 @@
  * @Last Modified time: 2019-01-12 10:16:13
  */
 
+/**
+ WARNING:据反映CocosCreator2.0版本已经废弃了cc.eventManager这个监听管理类。该脚本中涉及到的cc.eventManager相关代码行都可以注释掉，不会影响效果~，如有问题，欢迎GitHub提问或Rephontil168@163.com。
+ */
 cc.Class({
     extends: cc.Component,
 
